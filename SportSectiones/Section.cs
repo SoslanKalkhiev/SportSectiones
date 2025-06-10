@@ -10,7 +10,7 @@ namespace SportSectiones
     
     internal class Section
     {
-        public List<string> Students { get; set; }
+         public List<string> Students { get; set; }
         public string Name { get; set; }
         public string Coach { get; set; }
         public int MaxStudents { get; set; }
