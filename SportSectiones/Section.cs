@@ -8,7 +8,7 @@ namespace SportSectiones
 {
    
     
-    internal class Section
+    public class Section
     {
          public List<string> Students { get; set; }
         public string Name { get; set; }

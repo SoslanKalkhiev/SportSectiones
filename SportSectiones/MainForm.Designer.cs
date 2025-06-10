@@ -50,6 +50,7 @@
             buttonCheck.TabIndex = 1;
             buttonCheck.Text = "Проверка";
             buttonCheck.UseVisualStyleBackColor = true;
+            buttonCheck.Click += buttonCheck_Click;
             // 
             // MainForm
             // 
